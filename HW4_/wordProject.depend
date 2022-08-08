@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1619441846 source:c:\users\Özlem vural\desktop\cs202\hw2\wordproject\main.cpp
+	<iostream>
+	"WordNetwork.h"
+
+1619441982 c:\users\Özlem vural\desktop\cs202\hw2\wordproject\wordnetwork.h
+	<iostream>
+
+1619441940 source:c:\users\Özlem vural\desktop\cs202\hw2\wordproject\wordnetwork.cpp
+	"WordNetwork.h"
+
+1620325548 source:c:\users\Özlem vural\desktop\cs202\hw4\wordproject\main.cpp
+	<iostream>
+	"hashTable.h"
+	"Stack.h"
+	"Queue.h"
+	"WordNetwork.h"
+
+1620233518 c:\users\Özlem vural\desktop\cs202\hw4\wordproject\wordnetwork.h
+	<iostream>
+	"Stack.h"
+	"Queue.h"
+	"hashTable.h"
+	<fstream>
+	<sstream>
+	<string>
+
+1620232952 source:c:\users\Özlem vural\desktop\cs202\hw4\wordproject\wordnetwork.cpp
+	"WordNetwork.h"
+
+1619884442 c:\users\Özlem vural\desktop\cs202\hw4\wordproject\vertex.h
+	<iostream>
+
+1619884450 source:c:\users\Özlem vural\desktop\cs202\hw4\wordproject\vertex.cpp
+	"vertex.h"
+
+1619885611 source:c:\users\Özlem vural\desktop\cs202\hw4\wordproject\linkedlist.cpp
+	"LinkedList.h"
+
+1619885588 c:\users\Özlem vural\desktop\cs202\hw4\wordproject\linkedlist.h
+	"vertex.h"
+
+1620074472 source:c:\users\Özlem vural\desktop\cs202\hw4\wordproject\hashtable.cpp
+	"hashTable.h"
+
+1620074472 c:\users\Özlem vural\desktop\cs202\hw4\wordproject\hashtable.h
+	<iostream>
+	<string>
+
+1620071115 c:\users\Özlem vural\desktop\cs202\hw4\wordproject\stack.h
+	<iostream>
+	<string>
+
+1620071643 source:c:\users\Özlem vural\desktop\cs202\hw4\wordproject\stack.cpp
+	"Stack.h"
+
+1620071633 source:c:\users\Özlem vural\desktop\cs202\hw4\wordproject\queue.cpp
+	"Queue.h"
+
+1620071147 c:\users\Özlem vural\desktop\cs202\hw4\wordproject\queue.h
+	<iostream>
+
