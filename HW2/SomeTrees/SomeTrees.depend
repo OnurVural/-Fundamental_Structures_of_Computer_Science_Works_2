@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1616250048 source:c:\users\Özlem vural\desktop\cs202\hw2\sometrees\main.cpp
+	<iostream>
+	"BinarySearchTree.h"
+	"BinaryNode.h"
+
+1616237733 source:c:\users\Özlem vural\desktop\cs202\hw2\sometrees\binarynode.cpp
+	"BinaryNode.h"
+
+1616237522 c:\users\Özlem vural\desktop\cs202\hw2\sometrees\binarynode.h
+	<iostream>
+
+1616244455 source:c:\users\Özlem vural\desktop\cs202\hw2\sometrees\binarysearchtree.cpp
+	"BinarySearchTree.h"
+	"NodeQueue.h"
+
+1616238464 c:\users\Özlem vural\desktop\cs202\hw2\sometrees\binarysearchtree.h
+	"BinaryNode.h"
+	<iostream>
+
+1616237419 source:c:\users\Özlem vural\desktop\cs202\hw2\sometrees\nodequeue.cpp
+	"NodeQueue.h"
+
+1616237204 c:\users\Özlem vural\desktop\cs202\hw2\sometrees\nodequeue.h
+	"BinaryNode.h"
+	<iostream>
+
